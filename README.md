@@ -9,3 +9,5 @@ In this lab, you will explore the Quantum Fourier Transform (QFT), one of the mo
 * Apply QFT in Quantum Phase Estimation (QPE) — a key component of powerful algorithms such as Shor’s algorithm.
 
 By the end of the lab, you’ll gain both conceptual insights and hands-on experience with QFT and its applications in real quantum algorithms.
+
+<a href="https://colab.research.google.com/github/ferit-qc/lab3/blob/main/lab3_qft.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
